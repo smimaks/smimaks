@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563eb&height=180&section=header&text=Максим&fontSize=42&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563eb&height=180&section=header&text=Привет!&fontSize=42&fontColor=ffffff&animation=twinkling" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Backend+%2F+Node.js+Developer;Главный+разработчик+%40+Иннотех;Голосовой+ассистент+ВТБ+%2B+Алиса;4%2B+года+в+продакшене)](https://git.io/typing-svg)
 
