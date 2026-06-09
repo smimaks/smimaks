@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563eb&height=180&section=header&text=Макс&fontSize=42&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563eb&height=180&section=header&text=Максим&fontSize=42&fontColor=ffffff&animation=twinkling" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Backend+%2F+Node.js+Developer;Главный+разработчик+%40+Иннотех;Голосовой+ассистент+ВТБ+%2B+Алиса;4%2B+года+в+продакшене)](https://git.io/typing-svg)
 
@@ -73,14 +73,18 @@ Backend-разработчик с **4+ годами** опыта. Сейчас �
 
 ---
 
-## 📊 GitHub (скромная статистика — см. выше)
+## 🧭 Путь и куда смотрю
 
-<div align="center">
+В IT пришёл как **очередной айтишник** — без грандиозных планов. Но здесь настолько зашло, что решил **получить высшее образование** и развиваться в профессии системно.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=smimaks&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=smimaks&theme=tokyonight&hide_border=true" />
+До этого **~6 лет в продажах** — поэтому с коммуникацией и работой с людьми всё в порядке. Смотрю в сторону **наставничества** и **технического лидерства**, но честно: для этой сферы у меня пока ещё мало опыта.
 
-</div>
+**Сейчас в фокусе изучения:**
+- распределённый backend для веба и **микросервисная архитектура**
+- **событийная асинхронная архитектура**
+- **разделение чтения и записи (CQRS)**, проекции
+- гонки условий, **гарантированная единичная доставка**
+- **компенсирующие транзакции** и устойчивость распределённых систем
 
 ---
 
