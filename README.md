@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563eb&height=180&section=header&text=Максим&fontSize=42&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563eb&height=180&section=header&text=Макс&fontSize=42&fontColor=ffffff&animation=twinkling" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Backend+%2F+Node.js+Developer;Главный+разработчик+%40+Иннотех;Голосовые+навыки+Алисы+%2B+банкинг;4%2B+года+в+продакшене)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Backend+%2F+Node.js+Developer;Главный+разработчик+%40+Иннотех;Голосовой+ассистент+ВТБ+%2B+Алиса;4%2B+года+в+продакшене)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Max_JS_Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/max_js_dev)
 [![Email](https://img.shields.io/badge/Email-susharnikm@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:susharnikm@gmail.com)
-[![Location](https://img.shields.io/badge/Орёл-удалённо-64748B?style=for-the-badge)](https://github.com/stalinovsmx)
+[![Location](https://img.shields.io/badge/Российская_Федерация-удалённо-64748B?style=for-the-badge)](https://github.com/stalinovsmx)
 
 </div>
 
@@ -14,7 +14,11 @@
 
 ## 👋 Обо мне
 
-Backend-разработчик с **4+ годами** опыта. Сейчас — **главный разработчик** в команде Node.js в [Иннотех](https://innotech.ru): проектирую голосовые навыки **Алисы** для банковского функционала. Один из навыков представляли на **«Финополис»** и выставке **«Россия»**.
+Backend-разработчик с **4+ годами** опыта. Сейчас — **главный разработчик** в команде Node.js в [Иннотех](https://innotech.ru).
+
+Участвую в разработке **голосового ассистента ВТБ** — в мобильном приложении банка и в **Алисе**. Делаю возможным выполнение банковских операций голосом: пополнение мобильного, переводы, оплата штрафов и другие сценарии — без лишних шагов для клиента.
+
+Один из навыков представляли на **«Финополис»** и выставке **«Россия»**.
 
 Раньше в [ЛАД](https://lad24.ru) — ритейл-платформа лояльности и сервис **графика Ганта** для [csp24.ru](https://csp24.ru) (микросервисы, DDD, гексагональная архитектура).
 
@@ -32,10 +36,25 @@ Backend-разработчик с **4+ годами** опыта. Сейчас �
 
 | Направление | Что делаю |
 |-------------|-----------|
-| 🎙 Голосовые сценарии | Навыки Алисы, маршрутизация клиента, банковская логика |
+| 🎙 Голосовой банкинг | Ассистент ВТБ в приложении и Алисе — банковские операции через голос |
 | 🏗 Архитектура | DI, микросервисы, DDD, слоистые и гексагональные подходы |
 | 🧪 Качество | Unit / integration тесты, Jest, рефакторинг и поддержка |
 | 🔧 Фриланс | Иногда — переработка и оптимизация чужих кодовых баз |
+
+---
+
+## ♻️ Рефакторинг — то, что мне по душе
+
+Люблю приводить код в порядок: делать систему **расширяемой**, **читаемой** и **быстрой**.
+
+**Пример:** сервис подбора недвижимости на вторичке — [nedvizhka.top](https://nedvizhka.top)
+
+Изначально — **PHP + Node.js**. Перевёл всё на **NestJS**, перестроил архитектуру.
+
+**Результат:**
+- расчёт медианной стоимости по городам: **12–14 ч → 1,5 ч**
+- база — **миллионы записей** (~20 крупных городов на тот момент)
+- код стал проще сопровождать и развивать
 
 ---
 
