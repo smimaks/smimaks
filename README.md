@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Backend+%2F+Node.js+Developer;Главный+разработчик+%40+Иннотех;Голосовой+ассистент+ВТБ+%2B+Алиса;4%2B+года+в+продакшене)](https://git.io/typing-svg)
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Max_JS_Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/max_js_dev)
+[![Telegram](https://img.shields.io/badge/Telegram-@smxmai-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/smxmai)
 [![Email](https://img.shields.io/badge/Email-susharnikm@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:susharnikm@gmail.com)
 [![Location](https://img.shields.io/badge/Российская_Федерация-удалённо-64748B?style=for-the-badge)](https://github.com/stalinovsmx)
 
