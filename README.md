@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563eb&height=180&section=header&text=Максим%20Сушарник&fontSize=42&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:2563eb&height=180&section=header&text=Максим&fontSize=42&fontColor=ffffff&animation=twinkling" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Backend+%2F+Node.js+Developer;Ведущий+разработчик+%40+Иннотех;Голосовые+навыки+Алисы+%2B+банкинг;4%2B+года+в+продакшене)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Backend+%2F+Node.js+Developer;Главный+разработчик+%40+Иннотех;Голосовые+навыки+Алисы+%2B+банкинг;4%2B+года+в+продакшене)](https://git.io/typing-svg)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@Max_JS_Dev-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/max_js_dev)
 [![Email](https://img.shields.io/badge/Email-susharnikm@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:susharnikm@gmail.com)
@@ -14,9 +14,11 @@
 
 ## 👋 Обо мне
 
-Backend-разработчик с **4+ годами** опыта. Сейчас — **ведущий Node.js** в [Иннотех](https://innotech.ru): проектирую голосовые навыки **Алисы** для банковского функционала. Один из навыков представляли на **«Финополис»** и выставке **«Россия»**.
+Backend-разработчик с **4+ годами** опыта. Сейчас — **главный разработчик** в команде Node.js в [Иннотех](https://innotech.ru): проектирую голосовые навыки **Алисы** для банковского функционала. Один из навыков представляли на **«Финополис»** и выставке **«Россия»**.
 
 Раньше в [ЛАД](https://lad24.ru) — ритейл-платформа лояльности и сервис **графика Ганта** для [csp24.ru](https://csp24.ru) (микросервисы, DDD, гексагональная архитектура).
+
+Параллельно получаю **первое высшее образование** — **прикладная информатика**, профиль **интеллектуальная обработка данных** (Орловский государственный университет им. И.С. Тургенева).
 
 > Постоянно изучаю новое — архитектуру, TypeScript, PostgreSQL, Redis и смежный стек.  
 > Не без перерывов, конечно 🙂 Живу не только кодом.
@@ -49,14 +51,6 @@ Backend-разработчик с **4+ годами** опыта. Сейчас �
 `Docker` · `K8s` · `Jest` · `REST` · `WebSockets` · `SOLID` · `GitLab` · `Nginx`
 
 Базово: `C#` · `Rust` · `C++` · `Go`
-
----
-
-## 📚 Сейчас в фокусе
-
-- Углубление в **архитектуру** и проектирование backend-систем
-- Практика **TypeScript**, **PostgreSQL**, **Redis**
-- Читаю: *Чистый код*, *Чистая архитектура*, *Вы не знаете JS*, *Эффективный TypeScript*
 
 ---
 
