@@ -77,8 +77,8 @@ Backend-разработчик с **4+ годами** опыта. Сейчас �
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=stalinovsmx&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
-<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=stalinovsmx&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=smimaks&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" />
+<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=smimaks&theme=tokyonight&hide_border=true" />
 
 </div>
 
