@@ -90,7 +90,7 @@ Backend-разработчик с **4+ годами** опыта. Сейчас �
 
 ## 📫 Связаться
 
-- Telegram: [@Max_JS_Dev](https://t.me/max_js_dev)
+- Telegram: [@smxmai](https://t.me/smxmai)
 - Email: susharnikm@gmail.com
 - Формат: **удалённо**, открыт к проектной работе
 
